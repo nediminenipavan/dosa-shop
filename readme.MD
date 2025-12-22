@@ -1,5 +1,28 @@
-# Dosa Shop 
+# Dosa Shop
 
-# Egg Dosa
-* Dosa Batter 
-* Egg and karam 
+## Plain Dosa
+* Dosa Batter
+* Light Oil
+
+
+## Karam Dosa
+
+* Dosa Batter
+* Erra Karam
+* Oil
+
+
+## Egg Dosa
+* Dosa Batter
+* 1/2 eggs and karam
+
+
+## Panner Dosa
+* Dosa Batter
+* Panner
+* Carrot
+* Beetroot
+* Cheese and Butter
+* Garam Masala
+* Pepper Corriander
+* Special masala currty
