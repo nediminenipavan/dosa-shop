@@ -5,10 +5,10 @@
 * Light Oil
 
 
-## Karam Dosa
+## Karam Dosa 
 
-* Dosa Batter
-* Erra Karam
+* Dosa Batter 
+* Erra Karam 
 * Oil
 
 
@@ -16,13 +16,5 @@
 * Dosa Batter
 * 1/2 eggs and karam
 
-
-## Panner Dosa
-* Dosa Batter
-* Panner
-* Carrot
-* Beetroot
-* Cheese and Butter
-* Garam Masala
-* Pepper Corriander
-* Special masala currty
+## Mashroom Dosa 
+ * Dosa Batter 
